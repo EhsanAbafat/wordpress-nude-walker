@@ -1,5 +1,5 @@
 # wordpress-nude-walker
-walker for wordpress navs , this remove li and ul elements and keeps just anchor tag for nav items
+This is walker for wordpress navs; this remove <b><code> li </code> </b> and <b><code> ul </code> </b> elements and keeps just <b><code>anchor tag</code> </b> for nav items
 
 <h2>How to use ?</h2>
 
